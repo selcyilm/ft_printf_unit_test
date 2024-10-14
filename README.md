@@ -14,5 +14,14 @@ To set up the Unity framework in your project:
 
 ```bash
 git clone https://github.com/ThrowTheSwitch/Unity.git unity
+```
 
+## Usage
 
+1. Place all your `ft_printf` source files inside the `src/` directory.
+2. Clone the Unity framework into the `unity/` directory as shown above.
+3. run `make`
+
+## Contributing
+
+Feel free to open issues and submit pull requests for improvements or new features.
